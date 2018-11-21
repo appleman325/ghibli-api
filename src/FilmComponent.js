@@ -32,7 +32,7 @@ class FilmComponent extends Component {
 
   render() {
     return(
-      <Film />
+      <Film results={this.state.data}/>
     );
   }
 }

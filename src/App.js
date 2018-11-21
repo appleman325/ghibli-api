@@ -10,7 +10,7 @@ class App extends Component {
       <div className="container">
         <div className="text-center">
           <br />
-          <img src={Studio_Ghibli_logo} width="50%" />
+          <img className="logo-img" src={Studio_Ghibli_logo} width="50%" />
           <br />
           <br />
           <FilmComponent />

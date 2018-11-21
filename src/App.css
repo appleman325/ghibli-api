@@ -22,6 +22,24 @@
   color: #61dafb;
 }
 
+.logo-img {
+  margin: 20px auto;
+}
+
+.film_box {
+  padding: 5px;
+  /* margin: 0 2px; */
+}
+
+.film_inner_box {
+  background-color: #f7f7f7;
+  padding: 10px;
+}
+
+.film_detail {
+  text-align: left;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
